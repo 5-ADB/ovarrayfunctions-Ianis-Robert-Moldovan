@@ -11,6 +11,5 @@ const resultaten = [
   { vak: "nederlands", punt: 8, totaal: 10 },
 ];
 
-let totaal = resultaten
-let teBehalenPunten = resultaten
+let totaal = 
 
