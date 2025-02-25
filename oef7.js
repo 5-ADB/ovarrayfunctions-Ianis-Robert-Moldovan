@@ -11,5 +11,4 @@ const resultaten = [
   { vak: "nederlands", punt: 8, totaal: 10 },
 ];
 
-let totaal = 
-
+let totaal = resultaten.reduce

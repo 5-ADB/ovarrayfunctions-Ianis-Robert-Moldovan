@@ -13,3 +13,5 @@ const resultaten = [
   { vak: "chemie", punt: 8, totaal: 10 },
   { vak: "nederlands", punt: 8, totaal: 10 },
 ];
+
+
