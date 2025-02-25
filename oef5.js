@@ -4,3 +4,6 @@
  *
  */
 const namenlijst = ["Karel", "Pieter", "Pol", "Stef"];
+const gefilterd = namenlijst.filter(naam => naam.toLowerCase().startsWith('p'))
+
+console.log(gefilterd);
